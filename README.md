@@ -16,16 +16,7 @@
                         <H1>PRASHANT DEOL</H1>
                         <p><strong>I am web developer, Data analysis and Accountant.</strong></p>
 
-                   <p>Bank Colony <BR> Gajraula, Distt-Amroha, U.P.-244235<br>
-
-                    E-mail:- prashantdeol456@gmail.com<BR>
-
-                       Mobile no.:- +919557393301</p>
-                </TD>
-            </TR>
-        </TABLe>
-    
-    </p>
+             
 <h4>CAREER OBJECTIVE</h4>
 <hr>
 <P>To seek a challenging and rewarding postion in a professionally managed and a well-established organization where I can make a meaningful contribution and achieve personal growth in synergy with organizational growth</P>

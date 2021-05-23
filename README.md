@@ -17,11 +17,11 @@
                         <H1>PRASHANT DEOL</H1>
                         <p><strong>I am web developer, Data analysis and Accountant.</strong></p>
 
-                    <H5>Bank Colony <BR> Gajraula, Distt-Amroha, U.P.-244235<br>
+                   <p>Bank Colony <BR> Gajraula, Distt-Amroha, U.P.-244235<br>
 
                     E-mail:- prashantdeol456@gmail.com<BR>
 
-                    Mobile no.:- +919557393301</H5>
+                       Mobile no.:- +919557393301</p>
                 </TD>
             </TR>
         </TABLe>

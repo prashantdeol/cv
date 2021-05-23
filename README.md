@@ -1,8 +1,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
     <title>PRASHANT DEOL RESUME</title>
 </head>
 <body>
@@ -43,7 +42,7 @@
     <HR>
         <H4>Kuhmanchee Medialabs Pvt. Ltd.</H4>
         <h5>Senior Research Associate</h5>
-        <p><strong>Duration-</strong> Months contract(WHF)</p>
+        <p><strong>Duration-</strong>3 Months contract(WHF)</p>
 <h4><u>RESPONSIBILITIES:-</u></h4>
 <UL>
     <LI>Evaluate, select and apply satandard techniques of the research; keep detailed records of data.</LI>
